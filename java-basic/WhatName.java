@@ -1,5 +1,5 @@
 class WhatName{
-    public static void main(Stirn[] args){
-        system.out.print("Hello ??? !!");
+    public static void main(String[] args){
+        System.out.print("Hello JAVA !!");
     }
 }
